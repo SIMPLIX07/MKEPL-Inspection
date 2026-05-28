@@ -20,10 +20,13 @@
     </repository>
   </distributionManagement>
   
-  <properties>
-     <maven.compiler.source>1.8</maven.compiler.source>
-     <maven.compiler.target>1.8</maven.compiler.target>
- </properties>
+```xml id="mjvbvg"
+<properties>
+   <maven.compiler.source>17</maven.compiler.source>
+   <maven.compiler.target>17</maven.compiler.target>
+</properties>
+```
+
   
 </project>
 
